@@ -11,7 +11,7 @@
 - **Facebook:** [Gemry Delle Taparan](https://www.facebook.com/gemrydell333) <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="15"/>
 
 ### ⚡ Fun Fact:
-- **I'm a Fishkeeper!** 🐟
+- **I love Fishkeeping** ❤️🐟
 
 ---
 
