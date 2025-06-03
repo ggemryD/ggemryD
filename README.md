@@ -9,7 +9,7 @@
 ### 📫 How to Reach Me:
 - **Email:** gemrydelle@gmail.com  
 - **Facebook:** [Gemry Delle Taparan](https://www.facebook.com/gemrydell333)
-- - **Portfolio:** [ggemryD](https://ggemryd.github.io/My-Portfolio/) 
+- **Portfolio:** [ggemryD](https://ggemryd.github.io/My-Portfolio/) 
 
 ### ⚡ Fun Fact:
 - **I love Fishkeeping** ❤️🐟
