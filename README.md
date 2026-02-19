@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋🏾, I'm GGemry</h1>
+<h1 align="center">Hi 👋🏾, I'm Gemry Delle</h1>
 <h3 align="center">Bringing Ideas to Life with Code 💡 | Web & Mobile Developer 💻📱</h3>
 
 ---
-
-### 🌱 Currently Learning:
-- **Flutter, Dart & Laravel**
 
 ### 📫 How to Reach Me:
 - **Email:** gemrydelle@gmail.com  
