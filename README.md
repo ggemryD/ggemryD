@@ -8,9 +8,6 @@
 - **Facebook:** [Gemry Delle Taparan](https://www.facebook.com/gemrydell333)
 - **Portfolio:** [ggemryD](https://ggemryd.github.io/My-Portfolio/) 
 
-### ⚡ Fun Fact:
-- **I love Fishkeeping** ❤️🐟
-
 ---
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
