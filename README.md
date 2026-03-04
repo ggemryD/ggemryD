@@ -55,6 +55,8 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
   </a>
 </p> -->
+<div align="center">
+
 ```
 ╔════════════════════════════════════════════════════════╗
 ║      ██████╗ ███████╗███╗   ███╗██████╗ ██╗   ██╗      ║
@@ -65,10 +67,11 @@
 ║      ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝         ║
 ╚════════════════════════════════════════════════════════╝
 ```
-
+<div align="center">
 
 # 💫 About Me:
-Bringing Ideas to Life with Code 💡 | Web & Mobile Developer 💻📱
+<!--Bringing Ideas to Life with Code 💡 | Web & Mobile Developer 💻📱-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Bringing+Ideas+to+Life+with+Code+💡;Web+%26+Mobile+Developer+💻📱)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
